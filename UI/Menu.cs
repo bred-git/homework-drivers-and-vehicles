@@ -18,7 +18,7 @@ namespace bred.homework.DriversAndVehiclesConsole.UI
                 Console.WriteLine($"{i}.{MenuCommands[i]}");
             }
 
-            Console.Write("Enter command plz: ");
+            Console.Write("Enter command plz man: ");
 
             var result = Console.ReadLine() ?? "default";
 
